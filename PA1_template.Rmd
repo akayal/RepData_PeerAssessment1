@@ -236,8 +236,6 @@ dataByWeekdays <- function(data) {
 
 dataWeekdays <- dataByWeekdays(data_fill)
 
-dataWeekdays 
-
 ```
 
 To plot the average number of steps taken per 5-minute interval across weekdays and weekends:
